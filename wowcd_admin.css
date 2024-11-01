@@ -1,0 +1,81 @@
+/* Character display */
+.wow_character {
+	border:1px solid #999;
+	padding:2px;
+}
+.armory_char_prof {
+	float:left;
+	margin-right:2px;
+}
+.armory_char_name {
+	line-height:97%;
+}
+.armory_char_guildname {
+	line-height:97%;
+}
+.armory_char_faction {
+	line-height:97%;
+}
+.armory_char_realm {
+	line-height:97%;
+}
+.armory_char_levelraceclass {
+	clear:left;
+}
+.wow_character ul {
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+}
+.wow_character li {
+	font-size:0.9em;
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+	margin-bottom:2px;
+}
+.armory_gear ul {
+	overflow:hidden;
+	list-style-type:none;
+}
+.armory_gear li {
+	float:left;
+	margin-bottom:2px;
+	list-style-type:none;
+}
+.wow_character li img {
+	margin-right:2px;
+	float:left;
+}
+.wow_character a:link,.wow_character a:visited,.wow_character a:hover {
+	text-decoration:none;
+}
+ul.armory_reputation_list li {
+	font-weight:bold;
+}
+ul.armory_reputation_list li ul li {
+	margin-left:10px;
+	font-weight:normal;
+}
+
+/* Guild roster display */
+.armory_guild_roster ul {
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+}
+.armory_guild_roster li {
+	font-size:0.9em;
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+	margin-bottom:2px;
+}
+.armory_guild_roster li img {
+	margin-right:2px;
+	float:left;
+}

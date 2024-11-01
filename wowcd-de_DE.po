@@ -1,0 +1,910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WoW Character Display\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-03 13:22+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marc Schieferdecker <m_schieferdecker@hotmail.com>\n"
+"Language-Team: Marc Schieferdecker <m_schieferdecker@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: C:\\Dokumente und Einstellungen\\xschiem\\Desktop\\tmp\\trans\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wow-character-display.php:91
+#: wow-character-display.php:121
+#: wow-character-display.php:212
+#: wow-character-display.php:227
+#: wowcd_admin.class.php:592
+#: wowcd_admin.class.php:642
+msgid "Error:"
+msgstr "Fehler:"
+
+#: wow-character-display.php:152
+msgid "Display one or more Word of Warcraft characters in your sidebar."
+msgstr "Zeige ein oder mehrere World of Warcraft Charaktere in deiner Seitenleiste."
+
+#: wow-character-display.php:277
+msgid "Title:"
+msgstr "Überschrift:"
+
+#: wow-character-display.php:282
+msgid "Character:"
+msgstr "Charakter:"
+
+#: wow-character-display.php:288
+#: wowcd_admin.class.php:560
+msgid "Display basic stats"
+msgstr "Grundwerte anzeigen"
+
+#: wow-character-display.php:289
+#: wowcd_admin.class.php:561
+msgid "Display resistances"
+msgstr "Widerstände anzeigen"
+
+#: wow-character-display.php:290
+#: wowcd_admin.class.php:562
+msgid "Display melee damage"
+msgstr "Nahkampfschaden anzeigen"
+
+#: wow-character-display.php:291
+#: wowcd_admin.class.php:563
+msgid "Display range damage"
+msgstr "Fernkampfschaden anzeigen"
+
+#: wow-character-display.php:292
+#: wowcd_admin.class.php:564
+msgid "Display spell damage"
+msgstr "Zauberschaden anzeigen"
+
+#: wow-character-display.php:293
+#: wowcd_admin.class.php:565
+msgid "Display caster stats"
+msgstr "Zauberwerte anzeigen"
+
+#: wow-character-display.php:294
+#: wowcd_admin.class.php:566
+msgid "Display defense values"
+msgstr "Verteidigungswerte anzeigen"
+
+#: wow-character-display.php:295
+#: wowcd_admin.class.php:567
+msgid "Display PvP honor"
+msgstr "PvP Ehre anzeigen"
+
+#: wow-character-display.php:296
+#: wowcd_admin.class.php:568
+msgid "Display titles"
+msgstr "Erhaltene Titel anzeigen"
+
+#: wow-character-display.php:297
+#: wowcd_admin.class.php:569
+msgid "Display gear"
+msgstr "Ausrüstung anzeigen"
+
+#: wow-character-display.php:298
+#: wowcd_admin.class.php:570
+msgid "Display professions"
+msgstr "Berufe anzeigen"
+
+#: wow-character-display.php:299
+#: wowcd_admin.class.php:571
+msgid "Display recent achievments"
+msgstr "Kürzlich erhaltene Erfolge anzeigen"
+
+#: wow-character-display.php:300
+#: wowcd_admin.class.php:572
+msgid "Display statistics"
+msgstr "Kampfstatistiken anzeigen"
+
+#: wow-character-display.php:301
+#: wowcd_admin.class.php:573
+msgid "Display reputation"
+msgstr "Ruf bei Fraktionen anzeigen"
+
+#: wow-character-display.php:302
+#: wowcd_admin.class.php:574
+msgid "Display date and time of last update"
+msgstr "Zeitpunkt der letzten Aktualisierung anzeigen"
+
+#: wow-character-display.php:303
+#: wowcd_admin.class.php:575
+msgid "Display glyphs"
+msgstr "Glyphen anzeigen"
+
+#: wow-character-display.php:304
+#: wowcd_admin.class.php:576
+msgid "Display 3D Armory flash model"
+msgstr "Zeige 3D Armory Flash Model"
+
+#: wow-character-display.php:305
+#: wowcd_admin.class.php:577
+msgid "3D Armory flash width"
+msgstr "3D Armory Flash Breite"
+
+#: wow-character-display.php:306
+#: wowcd_admin.class.php:578
+msgid "3D Armory flash height"
+msgstr "3D Armory flash Höhe"
+
+#: wow-character-display.php:310
+msgid "Or display a guild roster:"
+msgstr "Oder zeige eine Gildenliste:"
+
+#: wow-character-display.php:316
+msgid "Minimum level to display"
+msgstr "Stufenminimum für Anzeige"
+
+#: wow-character-display.php:317
+msgid "Maximum level to display"
+msgstr "Stufenmaximum für Anzeige"
+
+#: wow-character-display.php:318
+msgid "Character class image width"
+msgstr "Charakterklassen Bild Breite"
+
+#: wow-character-display.php:319
+#: wowcd_admin.class.php:628
+msgid "Display total count of members"
+msgstr "Zeige die Mitgliederanzahl gesamt an"
+
+#: wowcd_admin.class.php:123
+msgid "Options updated."
+msgstr "Optionen geändert."
+
+#: wowcd_admin.class.php:149
+msgid "Character options updated."
+msgstr "Charakteroptionen geändert."
+
+#: wowcd_admin.class.php:175
+msgid "Guild options updated."
+msgstr "Gildenoptionen geändert."
+
+#: wowcd_admin.class.php:197
+msgid "Success! Character added!"
+msgstr "Hat geklappt! Charakter hinzugefügt."
+
+#: wowcd_admin.class.php:202
+msgid "The character information could not be loaded. Here the failure message:"
+msgstr "Die Charakterinformationen konnten nicht geladen werden. Hier die Fehlermeldung:"
+
+#: wowcd_admin.class.php:202
+#: wowcd_admin.class.php:236
+msgid "Try again"
+msgstr "Erneut versuchen"
+
+#: wowcd_admin.class.php:208
+#: wowcd_admin.class.php:242
+msgid "Please enter correct values. You have not filled all fields."
+msgstr "Bitte gib gültige Werte ein. Du hast nicht alle Felder ausgefüllt."
+
+#: wowcd_admin.class.php:231
+msgid "Success! Guild added!"
+msgstr "Hat geklappt! Gilde hinzugefügt."
+
+#: wowcd_admin.class.php:236
+msgid "The guild information could not be loaded. Here the failure message:"
+msgstr "Die Gildeninformationen konnten nicht geladen werden. Hier die Fehlermeldung:"
+
+#: wowcd_admin.class.php:254
+#: wowcd_admin.class.php:266
+msgid "All cache files for this guild were deleted."
+msgstr "Alle Cachedateien für diese Gilde gelöscht."
+
+#: wowcd_admin.class.php:291
+msgid "All cache files for this character were deleted."
+msgstr "Alle Cachedateien für diesen Charakter gelöscht."
+
+#: wowcd_admin.class.php:303
+msgid "All html cache files for this character were deleted."
+msgstr "Alle Cachedateien für diesen Charakter wurden gelöscht."
+
+#: wowcd_admin.class.php:328
+msgid "Cache file removed."
+msgstr "Cachedatei gelöscht."
+
+#: wowcd_admin.class.php:336
+msgid "All expired cache files deleted."
+msgstr "Alle veralteten Cachedateien gelöscht."
+
+#: wowcd_admin.class.php:339
+#: wowcd_admin.class.php:350
+#: wowcd_admin.class.php:388
+#: wowcd_admin.class.php:741
+msgid "Sorry, the cache directory is not writeable. Please chmod the directory to a permission that allows the webserver to write into that directory."
+msgstr "Entschuldigung, aber das Cacheverzeichnis ist nicht schreibbar. Bitte benutze chmod um dem Verzeichnis Rechte zuzuweisen, die es dem Webserver ermöglichen in dieses Verzeichnis zu schreiben."
+
+#: wowcd_admin.class.php:347
+msgid "All cache files deleted."
+msgstr "Alle Cachedateien gelöscht."
+
+#: wowcd_admin.class.php:355
+msgid "WoW Character Display admin page"
+msgstr "WoW Character Display Admin Seite"
+
+#: wowcd_admin.class.php:363
+msgid "WoW Character Display basic options"
+msgstr "WoW Character Display Grundeinstellungen"
+
+#: wowcd_admin.class.php:366
+msgid "Cache options"
+msgstr "Cache Optionen"
+
+#: wowcd_admin.class.php:369
+msgid "Enter the absolute path to the directory where the cache files were stored. Only modify if you got problems with the default value (try '/tmp/' if nothing works). Important: The directory MUST be writeable by the webserver."
+msgstr "Gib den absoluten Pfad zu dem Verzeichnis an, wo die Cachedateien abgelegt werden sollen. Bitte verändere die Voreinstellung nur, wenn du Probleme hast (versuch mal '/tmp/', wenn nichts geht). Wichtig: Der Webserver MUSS in dieses Verzeichnis schreiben können."
+
+#: wowcd_admin.class.php:374
+msgid "Try to create this directory on change? (e.g. if your enter something like '[...]/wp-content/uploads/wow' what is always a good choice!)"
+msgstr "Soll das Verzeichnis beim verändern angelegt werden? (z.B. wenn du etwas eingibst wie '[...]/wp-content/uploads/wow' was immer eine gute Wahl ist!)"
+
+#: wowcd_admin.class.php:376
+#: wowcd_admin.class.php:397
+msgid "Yes, do that!"
+msgstr "Ja, mach das!"
+
+#: wowcd_admin.class.php:379
+msgid "Enter the time in seconds that pages are delivered from cache before they are recreated. Enter 0 to deactivate cacheing."
+msgstr "Gibt die Zeit in Sekunden ein, die Seiten aus dem Zwischenspeicher geliefert werden sollen, bevor sie neue erstellt werden. Gib 0 ein, um den Zwischenspeicher zu deaktivieren."
+
+#: wowcd_admin.class.php:382
+msgid "Popular values: 3600 = 1 hour, 21600 = 6 hours, 86400 = 1 day"
+msgstr "Gebräuchliche Werte: 3600 = 1 Stunde, 21600 = 6 Stunden, 86400 = 1 Tag"
+
+#: wowcd_admin.class.php:393
+msgid "Include default CSS styles into your blog?"
+msgstr "Sollen die Standard CSS Stile in dein Blog eingebunden werden?"
+
+#: wowcd_admin.class.php:396
+msgid "No, I will use my own CSS"
+msgstr "Nein, ich benutze mein eigenes CSS"
+
+#: wowcd_admin.class.php:401
+msgid "Short or long character display preview by default?"
+msgstr "Kurze oder lange Charakteranzeige Vorschau als Voreinstellung?"
+
+#: wowcd_admin.class.php:404
+msgid "Short"
+msgstr "Kurz"
+
+#: wowcd_admin.class.php:405
+msgid "Long"
+msgstr "Lang"
+
+#: wowcd_admin.class.php:409
+msgid "Select the output language for armory data"
+msgstr "Wähle die Ausgabesprache der Arsenaldaten"
+
+#: wowcd_admin.class.php:426
+msgid "Locale strings for the professions"
+msgstr "Lokalisierte Begriffe für die Berufe"
+
+#: wowcd_admin.class.php:427
+msgid "You have to enter the locale profession strings, because the armory images where build on the correct locale. For example: Jewelcrafting is in german language Juwelenschleifen."
+msgstr "Du musst die übersetzen Begriffe für die Berufe eingeben, weil das Arsenal die Bilder anhand dieser Begriffe herausgibt. Zum Beispiel: \"Jewelcrafting\" heißt in deutscher Sprache \"Juwelenschleifen\"."
+
+#: wowcd_admin.class.php:429
+msgid "Enter the locale string for Jewelcrafting"
+msgstr "Lokalen Begriff für \"Jewelcrafting\""
+
+#: wowcd_admin.class.php:431
+msgid "Enter the locale string for Inscription"
+msgstr "Lokalen Begriff für \"Inscription\""
+
+#: wowcd_admin.class.php:433
+msgid "Enter the locale string for Leatherworking"
+msgstr "Lokalen Begriff für \"Leatherworking\""
+
+#: wowcd_admin.class.php:435
+msgid "Enter the locale string for Skinning"
+msgstr "Lokalen Begriff für \"Skinning\""
+
+#: wowcd_admin.class.php:437
+msgid "Enter the locale string for Herbalism"
+msgstr "Lokalen Begriff für \"Herbalism\""
+
+#: wowcd_admin.class.php:439
+msgid "Enter the locale string for Alchemy"
+msgstr "Lokalen Begriff für \"Alchemy\""
+
+#: wowcd_admin.class.php:441
+msgid "Enter the locale string for Blacksmithing"
+msgstr "Lokalen Begriff für \"Blacksmithing\""
+
+#: wowcd_admin.class.php:443
+msgid "Enter the locale string for Engineering"
+msgstr "Lokalen Begriff für \"Engineering\""
+
+#: wowcd_admin.class.php:445
+msgid "Enter the locale string for Enchanting"
+msgstr "Lokalen Begriff für \"Enchanting\""
+
+#: wowcd_admin.class.php:447
+msgid "Enter the locale string for Mining"
+msgstr "Lokalen Begriff für \"Mining\""
+
+#: wowcd_admin.class.php:449
+msgid "Enter the locale string for Tailoring"
+msgstr "Lokalen Begriff für \"Tailoring\""
+
+#: wowcd_admin.class.php:453
+msgid "Update options"
+msgstr "Optionen ändern"
+
+#: wowcd_admin.class.php:480
+#: wowcd_admin.class.php:500
+msgid "Add character"
+msgstr "Charakter hinzufügen"
+
+#: wowcd_admin.class.php:482
+msgid "Enter the correct values to add a character to the plugin"
+msgstr "Gib die entsprechenden Werte ein, um einen Charakter in das Plugin zu importieren"
+
+#: wowcd_admin.class.php:484
+#: wowcd_admin.class.php:515
+msgid "US or EU realm?"
+msgstr "US oder EU Realm?"
+
+#: wowcd_admin.class.php:492
+#: wowcd_admin.class.php:523
+msgid "Which wowhead.com local subdomain should be used?<br/>(www = international and us, de = Germany, es = Spain, fr = France, ...)"
+msgstr "Welche wowhead.com Subdomain soll verwendet werden?<br/>(www = international und US, de = Deutschland, es = Spanien, fr = Frankreich, ...)"
+
+#: wowcd_admin.class.php:494
+#: wowcd_admin.class.php:525
+msgid "Enter the name of the realm, e.g. Blackmoore."
+msgstr "Gib den Namen des Realms ein, z.B. Blackmoore."
+
+#: wowcd_admin.class.php:496
+msgid "Enter the name of the character."
+msgstr "Gibt den Namen des Charakters ein."
+
+#: wowcd_admin.class.php:511
+#: wowcd_admin.class.php:531
+msgid "Add guild"
+msgstr "Gilde hinzufügen"
+
+#: wowcd_admin.class.php:513
+msgid "Enter the correct values to add a guild to the plugin"
+msgstr "Gib die entsprechenden Werte ein, um eine Gilde in das Plugin zu importieren"
+
+#: wowcd_admin.class.php:527
+msgid "Enter the name of the guild."
+msgstr "Gibt den Namen der Gilde ein."
+
+#: wowcd_admin.class.php:544
+msgid "Your characters"
+msgstr "Deine Charaktere"
+
+#: wowcd_admin.class.php:546
+msgid "Configure what informations were displayed for your characters"
+msgstr "Lege fest, welche Informationen bei diesem Charakter angezeigt werden"
+
+#: wowcd_admin.class.php:580
+msgid "To display this character in a page or post, use the following shortcode:"
+msgstr "Um diesen Charakter in einer Seite oder einem Artikel anzuzeigen, verwende folgenden Shortcode:"
+
+#: wowcd_admin.class.php:583
+#: wowcd_admin.class.php:633
+msgid "Refresh HTML"
+msgstr "HTML erneuern"
+
+#: wowcd_admin.class.php:584
+#: wowcd_admin.class.php:634
+msgid "Refresh HTML+XML"
+msgstr "HTML+XML erneuern"
+
+#: wowcd_admin.class.php:584
+#: wowcd_admin.class.php:634
+msgid "Really refresh?"
+msgstr "Wirklich auffrischen?"
+
+#: wowcd_admin.class.php:585
+#: wowcd_admin.class.php:635
+msgid "Remove"
+msgstr "Löschen"
+
+#: wowcd_admin.class.php:585
+#: wowcd_admin.class.php:635
+#: wowcd_admin.class.php:734
+msgid "Really delete?"
+msgstr "Wirklich löschen?"
+
+#: wowcd_admin.class.php:594
+msgid "Display full preview"
+msgstr "Zeige die komplette Vorschau"
+
+#: wowcd_admin.class.php:599
+#: wowcd_admin.class.php:647
+msgid "Save configuration"
+msgstr "Einstellungen speichern"
+
+#: wowcd_admin.class.php:613
+msgid "Your guilds"
+msgstr "Deine Gilden"
+
+#: wowcd_admin.class.php:615
+msgid "Configure what informations were displayed for your guilds"
+msgstr "Lege fest, welche Informationen bei diesen Gilden angezeigt werden"
+
+#: wowcd_admin.class.php:625
+msgid "Display only character equal or above this level."
+msgstr "Zeige nur Charakter mit gleicher oder höherer Stufe"
+
+#: wowcd_admin.class.php:626
+msgid "Display only character equal or under this level."
+msgstr "Zeige nur Charakter mit gleicher oder niedrigerer Stufe"
+
+#: wowcd_admin.class.php:627
+msgid "Set width of the character class image."
+msgstr "Setze die Breite des Charakterklassen Bildes."
+
+#: wowcd_admin.class.php:630
+msgid "To display this guild in a page or post, use the following shortcode:"
+msgstr "Um diese Gilde in einer Seite oder einem Artikel anzuzeigen, verwende folgenden Shortcode:"
+
+#: wowcd_admin.class.php:661
+msgid "Cache status"
+msgstr "Cache Status"
+
+#: wowcd_admin.class.php:663
+msgid "List of cached files (red: expired and queued for refresh, green: page is delivered from cache)"
+msgstr "Liste der Dateien im Zwischenspeicher (rot: Nicht mehr aktuell - wird aufgefrischt, grün: Inhalt wird aus dem Zwischenspeicher geliefert)"
+
+#: wowcd_admin.class.php:666
+msgid "Sort by:"
+msgstr "Sortiere nach:"
+
+#: wowcd_admin.class.php:666
+msgid "state"
+msgstr "Status"
+
+#: wowcd_admin.class.php:666
+msgid "name"
+msgstr "Name"
+
+#: wowcd_admin.class.php:680
+msgid "Important: Don't delete XML cache files if not really necessary!"
+msgstr "Wichtig: Lösche keine XML Cache Dateien wenn das nicht wirklich notwendig ist!"
+
+#: wowcd_admin.class.php:723
+msgid "Character sheet"
+msgstr "Charakterblatt"
+
+#: wowcd_admin.class.php:725
+msgid "Guild roster"
+msgstr "Gildenliste"
+
+#: wowcd_admin.class.php:731
+msgid "XML cache file"
+msgstr "XML Cachedatei"
+
+#: wowcd_admin.class.php:734
+msgid "delete"
+msgstr "löschen"
+
+#: wowcd_admin.class.php:739
+msgid "Sorry, no files are cached at the moment."
+msgstr "Huch, keine Dateien im Zwischenspeicher."
+
+#: wowcd_admin.class.php:743
+msgid "Cacheing is disabled."
+msgstr "Der Zwischenspeicher ist deaktiviert."
+
+#: wowcd_admin.class.php:749
+msgid "files are cached."
+msgstr "Dateien sind im Cache."
+
+#: wowcd_admin.class.php:750
+msgid "files are cached and outdated."
+msgstr "Dateien sind im Cache und nicht mehr aktuell."
+
+#: wowcd_admin.class.php:751
+msgid "files are cached total."
+msgstr "Dateien sind insgesamt im Cache."
+
+#: wowcd_admin.class.php:754
+msgid "Delete all cache files and force recreation"
+msgstr "Lösche alle Dateien und erzwinge die Aktualierung"
+
+#: wowcd_admin.class.php:754
+msgid "Delete all expired cache files"
+msgstr "Lösche alle Dateien, die nicht mehr aktuell sind"
+
+#: wowcd_admin.class.php:763
+msgid "Donate &amp; support"
+msgstr "Spenden &amp; Hilfe"
+
+#: wowcd_admin.class.php:765
+msgid "Please"
+msgstr "Bitte"
+
+#: wowcd_admin.class.php:765
+msgid "DONATE"
+msgstr "SPENDE"
+
+#: wowcd_admin.class.php:765
+msgid "if you like this plugin."
+msgstr "wenn du dieses Plugin magst."
+
+#: wowcd_admin.class.php:766
+msgid "If you need support, want to report bugs or suggestions, drop me an "
+msgstr "Wenn du Hilfe brauchst, oder einen Fehler oder Vorschlag melden willst, schreib mir eine "
+
+#: wowcd_admin.class.php:766
+msgid "email"
+msgstr "E-Mail"
+
+#: wowcd_admin.class.php:766
+msgid "or visit the"
+msgstr "oder besuch die"
+
+#: wowcd_admin.class.php:766
+msgid "plugin homepage"
+msgstr "Plugin Webseite"
+
+#: wowcd_admin.class.php:767
+msgid "Translations: "
+msgstr "Übersetzungen:"
+
+#: wowcd_admin.class.php:768
+msgid "And this persons I thank for a donation:"
+msgstr "Und diesen Personen danke ich für eine Spende:"
+
+#: wowcd_admin.class.php:769
+msgid "Final statements: Code is poetry. Motorcycles are cooler than cars."
+msgstr "Abschließende Statements: Code is poetry. Motorräder sind cooler als Autos."
+
+#: wow_armory_reader.class.php:150
+#: wow_armory_reader.class.php:281
+msgid "Level"
+msgstr "Stufe"
+
+#: wow_armory_reader.class.php:151
+msgid "Achievement points"
+msgstr "Erfolgspunkte"
+
+#: wow_armory_reader.class.php:157
+msgid "Members total"
+msgstr "Mitglieder gesamt"
+
+#: wow_armory_reader.class.php:164
+#: wow_armory_reader.class.php:740
+msgid "The returned XML data is not well formed."
+msgstr "Die zurückgegebenen XML Daten sind nicht in einer gültigen Struktur."
+
+#: wow_armory_reader.class.php:170
+msgid "No guild information returned or guild not found."
+msgstr "Keine Gildeninformationen zurückgegeben oder Gilde nicht gefunden."
+
+#: wow_armory_reader.class.php:171
+#: wow_armory_reader.class.php:747
+msgid "Test armory display"
+msgstr "Die Arsenal Anzeige testen"
+
+#: wow_armory_reader.class.php:177
+#: wow_armory_reader.class.php:753
+msgid "Sorry the WoW armory server didn't respond. The amount of requests you can do in a specific time period is restricted by Blizzard. Please wait a bit then delete the cache file for this character and try it again. Sorry, but that's a thing I can't change. Maybe write an email to Blizzard."
+msgstr "Sorry, der WoW Arsenal Server hat nicht geantwortet. Die Anzahl der Requests, die du in einer bestimmten Zeit machen kannst ist von Blizzard eingeschränkt. Bitte warte ein wenig, lösche dann die Cachedatei und versuch es erneut. Sorry, aber das ist eine Sache, die ich nicht ändern kann. Vielleicht schreibst du eine E-Mail deswegen an Blizzard."
+
+#: wow_armory_reader.class.php:178
+#: wow_armory_reader.class.php:754
+msgid "Test armory connection"
+msgstr "Die Verbindung des Arsenals testen"
+
+#: wow_armory_reader.class.php:284
+msgid "Talents"
+msgstr "Talente"
+
+#: wow_armory_reader.class.php:296
+msgid "1st talents"
+msgstr "1. Talente"
+
+#: wow_armory_reader.class.php:297
+msgid "2nd talents"
+msgstr "2. Talente"
+
+#: wow_armory_reader.class.php:303
+msgid "Base stats"
+msgstr "Grundwerte"
+
+#: wow_armory_reader.class.php:314
+msgid "Health"
+msgstr "Leben"
+
+#: wow_armory_reader.class.php:316
+msgid "Mana"
+msgstr "Mana"
+
+#: wow_armory_reader.class.php:317
+#: wow_armory_reader.class.php:322
+msgid "Agility"
+msgstr "Beweglichkeit"
+
+#: wow_armory_reader.class.php:318
+msgid "Stamina"
+msgstr "Ausdauer"
+
+#: wow_armory_reader.class.php:319
+msgid "Intellect"
+msgstr "Intelligenz"
+
+#: wow_armory_reader.class.php:320
+msgid "Spirit"
+msgstr "Willenskraft"
+
+#: wow_armory_reader.class.php:321
+#: wow_armory_reader.class.php:489
+msgid "Armor"
+msgstr "Rüstung"
+
+#: wow_armory_reader.class.php:330
+msgid "Resistances"
+msgstr "Widerstände"
+
+#: wow_armory_reader.class.php:338
+#: wow_armory_reader.class.php:438
+msgid "Arcane"
+msgstr "Arkan"
+
+#: wow_armory_reader.class.php:339
+#: wow_armory_reader.class.php:440
+msgid "Fire"
+msgstr "Feuer"
+
+#: wow_armory_reader.class.php:340
+#: wow_armory_reader.class.php:442
+msgid "Frost"
+msgstr "Frost"
+
+#: wow_armory_reader.class.php:341
+#: wow_armory_reader.class.php:444
+msgid "Holy"
+msgstr "Heilig"
+
+#: wow_armory_reader.class.php:342
+#: wow_armory_reader.class.php:446
+msgid "Nature"
+msgstr "Natur"
+
+#: wow_armory_reader.class.php:343
+#: wow_armory_reader.class.php:448
+msgid "Shadow"
+msgstr "Schatten"
+
+#: wow_armory_reader.class.php:351
+msgid "Melee"
+msgstr "Nahkampf"
+
+#: wow_armory_reader.class.php:361
+msgid "Main hand"
+msgstr "Waffenhand"
+
+#: wow_armory_reader.class.php:361
+#: wow_armory_reader.class.php:363
+#: wow_armory_reader.class.php:387
+msgid "max"
+msgstr "max"
+
+#: wow_armory_reader.class.php:361
+#: wow_armory_reader.class.php:363
+#: wow_armory_reader.class.php:387
+msgid "min"
+msgstr "min"
+
+#: wow_armory_reader.class.php:361
+#: wow_armory_reader.class.php:363
+#: wow_armory_reader.class.php:387
+msgid "dps"
+msgstr "dps"
+
+#: wow_armory_reader.class.php:361
+#: wow_armory_reader.class.php:363
+#: wow_armory_reader.class.php:387
+msgid "speed"
+msgstr "Tempo"
+
+#: wow_armory_reader.class.php:363
+msgid "Off hand"
+msgstr "Schildhand"
+
+#: wow_armory_reader.class.php:364
+msgid "Main hand speed"
+msgstr "Waffenhand Tempo"
+
+#: wow_armory_reader.class.php:364
+#: wow_armory_reader.class.php:366
+msgid "haste"
+msgstr "Hast"
+
+#: wow_armory_reader.class.php:366
+msgid "Off hand speed"
+msgstr "Schildhand Tempo"
+
+#: wow_armory_reader.class.php:367
+#: wow_armory_reader.class.php:389
+msgid "Power"
+msgstr "Angriffskraft"
+
+#: wow_armory_reader.class.php:368
+#: wow_armory_reader.class.php:390
+#: wow_armory_reader.class.php:472
+msgid "Hit rating"
+msgstr "Trefferwertung"
+
+#: wow_armory_reader.class.php:369
+#: wow_armory_reader.class.php:391
+msgid "Critical chance"
+msgstr "Kritische Chance"
+
+#: wow_armory_reader.class.php:370
+msgid "Expertise rating"
+msgstr "Waffenkunde"
+
+#: wow_armory_reader.class.php:378
+msgid "Range"
+msgstr "Fernkampf"
+
+#: wow_armory_reader.class.php:386
+msgid "Weapon skill"
+msgstr "Waffenfertigkeit"
+
+#: wow_armory_reader.class.php:387
+msgid "Damage"
+msgstr "Schaden"
+
+#: wow_armory_reader.class.php:388
+msgid "Speed"
+msgstr "Tempo"
+
+#: wow_armory_reader.class.php:399
+msgid "Spell damage"
+msgstr "Zauberschaden"
+
+#: wow_armory_reader.class.php:426
+msgid "Damagebonus"
+msgstr "Schadensbonus"
+
+#: wow_armory_reader.class.php:426
+#: wow_armory_reader.class.php:451
+msgid "crit"
+msgstr "kritisch"
+
+#: wow_armory_reader.class.php:462
+msgid "Caster stats"
+msgstr "Zauber"
+
+#: wow_armory_reader.class.php:469
+msgid "Bonus heal"
+msgstr "Heilungsboni"
+
+#: wow_armory_reader.class.php:470
+msgid "Mana reg"
+msgstr "Manareg."
+
+#: wow_armory_reader.class.php:470
+msgid "not casting"
+msgstr "nicht zaubernd"
+
+#: wow_armory_reader.class.php:470
+msgid "casting"
+msgstr "beim zaubern"
+
+#: wow_armory_reader.class.php:471
+msgid "Haste rating"
+msgstr "Tempowertung"
+
+#: wow_armory_reader.class.php:473
+msgid "Penetrating rating"
+msgstr "Rüstungsdurchschlag"
+
+#: wow_armory_reader.class.php:481
+#: wow_armory_reader.class.php:490
+msgid "Defense"
+msgstr "Verteidigung"
+
+#: wow_armory_reader.class.php:491
+msgid "Dodge"
+msgstr "Ausweichen"
+
+#: wow_armory_reader.class.php:492
+msgid "Parry"
+msgstr "Parrieren"
+
+#: wow_armory_reader.class.php:493
+msgid "Block"
+msgstr "Blocken"
+
+#: wow_armory_reader.class.php:494
+msgid "Resilience"
+msgstr "Abhärtung"
+
+#: wow_armory_reader.class.php:502
+msgid "PvP"
+msgstr "PvP"
+
+#: wow_armory_reader.class.php:506
+msgid "Honorable kills"
+msgstr "Ehrenhafte Siege"
+
+#: wow_armory_reader.class.php:507
+msgid "Arena currency"
+msgstr "Arenawertung"
+
+#: wow_armory_reader.class.php:515
+msgid "Known titles"
+msgstr "Erhaltene Titel"
+
+#: wow_armory_reader.class.php:525
+#: wow_armory_reader.class.php:643
+msgid "none"
+msgstr "keine"
+
+#: wow_armory_reader.class.php:533
+msgid "Equipment"
+msgstr "Ausrüstung"
+
+#: wow_armory_reader.class.php:570
+msgid "Glyphs"
+msgstr "Glyphen"
+
+#: wow_armory_reader.class.php:599
+msgid "Professions"
+msgstr "Berufe"
+
+#: wow_armory_reader.class.php:633
+msgid "Recent Achievements"
+msgstr "Kürzliche Erfolge"
+
+#: wow_armory_reader.class.php:645
+msgid "Points"
+msgstr "Punkte"
+
+#: wow_armory_reader.class.php:664
+msgid "Fighting stats"
+msgstr "Kampfstatistiken"
+
+#: wow_armory_reader.class.php:690
+msgid "Reputation"
+msgstr "Ruf"
+
+#: wow_armory_reader.class.php:726
+msgid "Last update"
+msgstr "Letzte Aktualisierung"
+
+#: wow_armory_reader.class.php:734
+msgid "Character not found."
+msgstr "Charakter nicht gefunden."
+
+#: wow_armory_reader.class.php:746
+msgid "No character information returned."
+msgstr "Keine Charakterinformationen zurückgegeben."
+
+#~ msgid "Remove this character"
+#~ msgstr "Diesen Charakter entfernen"
+#~ msgid "Refresh this character"
+#~ msgstr "Diesen Charakter auffrischen"
+#~ msgid "Remove this guild"
+#~ msgstr "Diese Gilde entfernen"
+#~ msgid "Refresh this guild"
+#~ msgstr "Diese Gilde auffrischen"
+#~ msgid "You are not allowed to be here"
+#~ msgstr "Es ist dir nicht erlaubt diese Seite aufzurufen"
+#~ msgid "Character"
+#~ msgstr "Charakter"
+#~ msgid "Guild"
+#~ msgstr "Gilde"
+#~ msgid "Select character"
+#~ msgstr "Wähle Charakter"
+#~ msgid "Select guild"
+#~ msgstr "Wähle Gilde"
+#~ msgid "Cancel"
+#~ msgstr "Abbrechen"
+#~ msgid "Insert"
+#~ msgstr "Einfügen"
+

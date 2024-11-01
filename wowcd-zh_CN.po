@@ -1,0 +1,1585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WoW Character Display\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-28 11:50+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Marc Schieferdecker <m_schieferdecker@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: W:\\motorrad\\html\\wp-content\\plugins\\wow-character-display\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wow_armory_reader.class.php:147
+#: wow_armory_reader.class.php:261
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:137
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:251
+msgid "Level"
+msgstr "等级"
+
+#: wow_armory_reader.class.php:148
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:138
+msgid "Achievement points"
+msgstr "成就点数"
+
+#: wow_armory_reader.class.php:154
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:144
+msgid "Members total"
+msgstr "成员总计"
+
+#: wow_armory_reader.class.php:161
+#: wow_armory_reader.class.php:678
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:569
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:151
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:668
+msgid "The returned XML data is not well formed."
+msgstr "返回的XML数据格式有错。"
+
+#: wow_armory_reader.class.php:167
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:157
+msgid "No guild information returned or guild not found."
+msgstr "没有找到该公会。"
+
+#: wow_armory_reader.class.php:168
+#: wow_armory_reader.class.php:685
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:576
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:158
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:675
+msgid "Test armory display"
+msgstr "测试英雄榜显示"
+
+#: wow_armory_reader.class.php:174
+#: wow_armory_reader.class.php:691
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:582
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:164
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:681
+msgid "Sorry the WoW armory server didn't respond. The amount of requests you can do in a specific time period is restricted by Blizzard. Please wait a bit then delete the cache file for this character and try it again. Sorry, but that's a thing I can't change. Maybe write an email to Blizzard."
+msgstr "很抱歉的魔兽世界英雄榜服务器没有响应。稍后请删除改角色的缓存之后重试。"
+
+#: wow_armory_reader.class.php:175
+#: wow_armory_reader.class.php:692
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:583
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:165
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:682
+msgid "Test armory connection"
+msgstr "测试连接英雄榜"
+
+#: wow_armory_reader.class.php:262
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:137
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:141
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:153
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:252
+msgid "Talents"
+msgstr "天赋"
+
+#: wow_armory_reader.class.php:267
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:142
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:146
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:158
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:257
+msgid "Base stats"
+msgstr "基础属性"
+
+#: wow_armory_reader.class.php:278
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:153
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:157
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:169
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:268
+msgid "Health"
+msgstr "生命"
+
+#: wow_armory_reader.class.php:280
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:155
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:159
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:171
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:270
+msgid "Mana"
+msgstr "法力"
+
+#: wow_armory_reader.class.php:281
+#: wow_armory_reader.class.php:286
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:156
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:161
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:160
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:165
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:172
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:177
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:271
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:276
+msgid "Agility"
+msgstr "敏捷"
+
+#: wow_armory_reader.class.php:282
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:157
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:161
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:173
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:272
+msgid "Stamina"
+msgstr "耐力"
+
+#: wow_armory_reader.class.php:283
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:158
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:162
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:174
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:273
+msgid "Intellect"
+msgstr "智力"
+
+#: wow_armory_reader.class.php:284
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:159
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:163
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:175
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:274
+msgid "Spirit"
+msgstr "精神"
+
+#: wow_armory_reader.class.php:285
+#: wow_armory_reader.class.php:453
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:160
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:292
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:164
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:296
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:176
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:344
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:275
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:443
+msgid "Armor"
+msgstr "护甲"
+
+#: wow_armory_reader.class.php:294
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:169
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:173
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:185
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:284
+msgid "Resistances"
+msgstr "抗性"
+
+#: wow_armory_reader.class.php:302
+#: wow_armory_reader.class.php:402
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:177
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:252
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:181
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:256
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:193
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:293
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:292
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:392
+msgid "Arcane"
+msgstr "奥术"
+
+#: wow_armory_reader.class.php:303
+#: wow_armory_reader.class.php:404
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:178
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:253
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:182
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:257
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:194
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:295
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:293
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:394
+msgid "Fire"
+msgstr "火焰"
+
+#: wow_armory_reader.class.php:304
+#: wow_armory_reader.class.php:406
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:179
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:254
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:183
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:258
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:195
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:297
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:294
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:396
+msgid "Frost"
+msgstr "冰霜"
+
+#: wow_armory_reader.class.php:305
+#: wow_armory_reader.class.php:408
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:180
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:255
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:184
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:259
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:196
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:299
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:295
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:398
+msgid "Holy"
+msgstr "神圣"
+
+#: wow_armory_reader.class.php:306
+#: wow_armory_reader.class.php:410
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:181
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:256
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:185
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:260
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:197
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:301
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:296
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:400
+msgid "Nature"
+msgstr "自然"
+
+#: wow_armory_reader.class.php:307
+#: wow_armory_reader.class.php:412
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:182
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:257
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:186
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:261
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:198
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:303
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:297
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:402
+msgid "Shadow"
+msgstr "暗影"
+
+#: wow_armory_reader.class.php:315
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:190
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:194
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:206
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:305
+msgid "Melee"
+msgstr "近战"
+
+#: wow_armory_reader.class.php:325
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:200
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:204
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:216
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:315
+msgid "Main hand"
+msgstr "主手"
+
+#: wow_armory_reader.class.php:325
+#: wow_armory_reader.class.php:327
+#: wow_armory_reader.class.php:351
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:200
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:202
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:226
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:204
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:206
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:230
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:216
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:218
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:242
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:315
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:317
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:341
+msgid "max"
+msgstr "最大"
+
+#: wow_armory_reader.class.php:325
+#: wow_armory_reader.class.php:327
+#: wow_armory_reader.class.php:351
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:200
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:202
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:226
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:204
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:206
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:230
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:216
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:218
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:242
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:315
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:317
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:341
+msgid "min"
+msgstr "最小"
+
+#: wow_armory_reader.class.php:325
+#: wow_armory_reader.class.php:327
+#: wow_armory_reader.class.php:351
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:200
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:202
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:226
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:204
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:206
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:230
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:216
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:218
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:242
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:315
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:317
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:341
+msgid "dps"
+msgstr "DPS"
+
+#: wow_armory_reader.class.php:325
+#: wow_armory_reader.class.php:327
+#: wow_armory_reader.class.php:351
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:200
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:202
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:226
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:204
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:206
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:230
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:216
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:218
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:242
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:315
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:317
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:341
+msgid "speed"
+msgstr "速度"
+
+#: wow_armory_reader.class.php:327
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:202
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:206
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:218
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:317
+msgid "Off hand"
+msgstr "副手"
+
+#: wow_armory_reader.class.php:328
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:203
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:207
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:219
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:318
+msgid "Main hand speed"
+msgstr "主手速度"
+
+#: wow_armory_reader.class.php:328
+#: wow_armory_reader.class.php:330
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:203
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:205
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:207
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:209
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:219
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:221
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:318
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:320
+msgid "haste"
+msgstr "急速"
+
+#: wow_armory_reader.class.php:330
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:205
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:209
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:221
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:320
+msgid "Off hand speed"
+msgstr "副手速度"
+
+#: wow_armory_reader.class.php:331
+#: wow_armory_reader.class.php:353
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:206
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:228
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:210
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:232
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:222
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:244
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:321
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:343
+msgid "Power"
+msgstr "能量"
+
+#: wow_armory_reader.class.php:332
+#: wow_armory_reader.class.php:354
+#: wow_armory_reader.class.php:436
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:207
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:229
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:275
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:211
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:233
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:279
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:223
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:245
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:327
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:322
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:344
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:426
+msgid "Hit rating"
+msgstr "命中率"
+
+#: wow_armory_reader.class.php:333
+#: wow_armory_reader.class.php:355
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:208
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:230
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:212
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:234
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:224
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:246
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:323
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:345
+msgid "Critical chance"
+msgstr "暴击率"
+
+#: wow_armory_reader.class.php:334
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:209
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:213
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:225
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:324
+msgid "Expertise rating"
+msgstr "精准等级"
+
+#: wow_armory_reader.class.php:342
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:217
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:221
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:233
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:332
+msgid "Range"
+msgstr "远程"
+
+#: wow_armory_reader.class.php:350
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:225
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:229
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:241
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:340
+msgid "Weapon skill"
+msgstr "武器技能"
+
+#: wow_armory_reader.class.php:351
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:226
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:230
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:242
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:341
+msgid "Damage"
+msgstr "伤害"
+
+#: wow_armory_reader.class.php:352
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:227
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:231
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:243
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:342
+msgid "Speed"
+msgstr "速度"
+
+#: wow_armory_reader.class.php:363
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:238
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:242
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:254
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:353
+msgid "Spell damage"
+msgstr "法术"
+
+#: wow_armory_reader.class.php:390
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:281
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:380
+msgid "Damagebonus"
+msgstr "法术加成"
+
+#: wow_armory_reader.class.php:390
+#: wow_armory_reader.class.php:415
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:252
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:253
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:254
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:255
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:256
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:257
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:256
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:257
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:258
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:259
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:260
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:261
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:281
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:306
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:380
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:405
+msgid "crit"
+msgstr "暴击"
+
+#: wow_armory_reader.class.php:426
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:265
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:269
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:317
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:416
+msgid "Caster stats"
+msgstr "施法状态"
+
+#: wow_armory_reader.class.php:433
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:272
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:276
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:324
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:423
+msgid "Bonus heal"
+msgstr "治疗加成"
+
+#: wow_armory_reader.class.php:434
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:273
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:277
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:325
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:424
+msgid "Mana reg"
+msgstr "法力回复"
+
+#: wow_armory_reader.class.php:434
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:273
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:277
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:325
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:424
+msgid "not casting"
+msgstr "非施法状态"
+
+#: wow_armory_reader.class.php:434
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:273
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:277
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:325
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:424
+msgid "casting"
+msgstr "施法状态"
+
+#: wow_armory_reader.class.php:435
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:274
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:278
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:326
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:425
+msgid "Haste rating"
+msgstr "急速等级"
+
+#: wow_armory_reader.class.php:437
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:276
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:280
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:328
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:427
+msgid "Penetrating rating"
+msgstr "法术穿透"
+
+#: wow_armory_reader.class.php:445
+#: wow_armory_reader.class.php:454
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:284
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:293
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:288
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:297
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:336
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:345
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:435
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:444
+msgid "Defense"
+msgstr "防御"
+
+#: wow_armory_reader.class.php:455
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:294
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:298
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:346
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:445
+msgid "Dodge"
+msgstr "闪躲"
+
+#: wow_armory_reader.class.php:456
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:295
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:299
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:347
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:446
+msgid "Parry"
+msgstr "格挡"
+
+#: wow_armory_reader.class.php:457
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:296
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:300
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:348
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:447
+msgid "Block"
+msgstr "招架"
+
+#: wow_armory_reader.class.php:458
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:297
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:301
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:349
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:448
+msgid "Resilience"
+msgstr "抵抗"
+
+#: wow_armory_reader.class.php:466
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:305
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:309
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:357
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:456
+msgid "PvP"
+msgstr "PvP"
+
+#: wow_armory_reader.class.php:470
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:309
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:313
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:361
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:460
+msgid "Honorable kills"
+msgstr "荣誉击杀"
+
+#: wow_armory_reader.class.php:471
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:310
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:314
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:362
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:461
+msgid "Arena currency"
+msgstr "竞技场点数"
+
+#: wow_armory_reader.class.php:479
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:318
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:322
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:370
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:469
+msgid "Known titles"
+msgstr "头衔"
+
+#: wow_armory_reader.class.php:489
+#: wow_armory_reader.class.php:581
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:328
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:420
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:332
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:424
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:380
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:472
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:479
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:571
+msgid "none"
+msgstr "无"
+
+#: wow_armory_reader.class.php:497
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:336
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:340
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:388
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:487
+msgid "Equipment"
+msgstr "装备"
+
+#: wow_armory_reader.class.php:537
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:376
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:380
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:428
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:527
+msgid "Professions"
+msgstr "专业"
+
+#: wow_armory_reader.class.php:571
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:410
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:414
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:462
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:561
+msgid "Recent Achievements"
+msgstr "最近完成的成就"
+
+#: wow_armory_reader.class.php:583
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:422
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:426
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:474
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:573
+msgid "Points"
+msgstr "点"
+
+#: wow_armory_reader.class.php:602
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:441
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:445
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:493
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:592
+msgid "Fighting stats"
+msgstr "近战统计"
+
+#: wow_armory_reader.class.php:628
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:467
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:471
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:519
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:618
+msgid "Reputation"
+msgstr "声望"
+
+#: wow_armory_reader.class.php:664
+#: svn/wow-character-display/tags/1.01/wow_armory_reader.class.php:503
+#: svn/wow-character-display/tags/1.02/wow_armory_reader.class.php:507
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:555
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:654
+msgid "Last update"
+msgstr "最后更新"
+
+#: wow_armory_reader.class.php:672
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:563
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:662
+msgid "Character not found."
+msgstr "角色未找到"
+
+#: wow_armory_reader.class.php:684
+#: svn/wow-character-display/tags/1.03/wow_armory_reader.class.php:575
+#: svn/wow-character-display/tags/1.04/wow_armory_reader.class.php:674
+msgid "No character information returned."
+msgstr "英雄榜返回没有角色信息。"
+
+#: wowcd_admin.class.php:123
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:121
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:121
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:121
+msgid "Options updated."
+msgstr "更新选项。"
+
+#: wowcd_admin.class.php:149
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:136
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:136
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:145
+msgid "Character options updated."
+msgstr "角色选项已更新。"
+
+#: wowcd_admin.class.php:175
+msgid "Guild options updated."
+msgstr "公会选项已更新。"
+
+#: wowcd_admin.class.php:197
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:158
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:158
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:167
+msgid "Success! Character added!"
+msgstr "成功添加角色信息！"
+
+#: wowcd_admin.class.php:202
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:163
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:163
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:172
+msgid "The character information could not be loaded. Here the failure message:"
+msgstr "无法去读角色信息。错误信息："
+
+#: wowcd_admin.class.php:202
+#: wowcd_admin.class.php:236
+msgid "Try again"
+msgstr "重试"
+
+#: wowcd_admin.class.php:208
+#: wowcd_admin.class.php:242
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:169
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:169
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:178
+msgid "Please enter correct values. You have not filled all fields."
+msgstr "请正确填写每个空格。"
+
+#: wowcd_admin.class.php:231
+msgid "Success! Guild added!"
+msgstr "成功添加公会信息！"
+
+#: wowcd_admin.class.php:236
+msgid "The guild information could not be loaded. Here the failure message:"
+msgstr "无法读取公会信息。错误信息："
+
+#: wowcd_admin.class.php:254
+msgid "All cache files for this guild were deleted."
+msgstr "该公会的所有缓存文件均已删除。"
+
+#: wowcd_admin.class.php:279
+msgid "All cache files for this character were deleted."
+msgstr "该角色的所有缓存文件均已删除。"
+
+#: wowcd_admin.class.php:304
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:196
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:196
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:200
+msgid "Cache file removed."
+msgstr "缓存文件已删除。"
+
+#: wowcd_admin.class.php:312
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:204
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:204
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:208
+msgid "All expired cache files deleted."
+msgstr "所有过期的缓存文件已被删除。"
+
+#: wowcd_admin.class.php:315
+#: wowcd_admin.class.php:326
+#: wowcd_admin.class.php:364
+#: wowcd_admin.class.php:709
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:207
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:218
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:256
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:461
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:207
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:218
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:256
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:461
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:211
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:222
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:260
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:492
+msgid "Sorry, the cache directory is not writeable. Please chmod the directory to a permission that allows the webserver to write into that directory."
+msgstr "抱歉，缓存目录不可写。请更改缓存目录的属性。"
+
+#: wowcd_admin.class.php:323
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:215
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:215
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:219
+msgid "All cache files deleted."
+msgstr "所有缓存文件已删除。"
+
+#: wowcd_admin.class.php:331
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:223
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:223
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:227
+msgid "WoW Character Display admin page"
+msgstr "WoW Character Display 管理页面"
+
+#: wowcd_admin.class.php:339
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:231
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:231
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:235
+msgid "WoW Character Display basic options"
+msgstr "魔兽世界角色信息显示"
+
+#: wowcd_admin.class.php:342
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:234
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:234
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:238
+msgid "Cache options"
+msgstr "缓存选项"
+
+#: wowcd_admin.class.php:345
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:237
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:237
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:241
+msgid "Enter the absolute path to the directory where the cache files were stored. Only modify if you got problems with the default value (try '/tmp/' if nothing works). Important: The directory MUST be writeable by the webserver."
+msgstr "输入缓存目录的绝对路径，仅在出现错误时更改该选项。重要：该目录必须可写。"
+
+#: wowcd_admin.class.php:350
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:242
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:242
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:246
+msgid "Try to create this directory on change? (e.g. if your enter something like '[...]/wp-content/uploads/wow' what is always a good choice!)"
+msgstr "尝试创建缓存目录？（例如，输入'[...]/wp-content/uploads/wow'）"
+
+#: wowcd_admin.class.php:352
+#: wowcd_admin.class.php:373
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:244
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:265
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:244
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:265
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:248
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:269
+msgid "Yes, do that!"
+msgstr "是的，就那样做！"
+
+#: wowcd_admin.class.php:355
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:247
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:247
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:251
+msgid "Enter the time in seconds that pages are delivered from cache before they are recreated. Enter 0 to deactivate cacheing."
+msgstr "输入缓存的有效时间，0为关闭缓存。"
+
+#: wowcd_admin.class.php:358
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:250
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:250
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:254
+msgid "Popular values: 3600 = 1 hour, 21600 = 6 hours, 86400 = 1 day"
+msgstr "推荐的数值： 3600 = 1 小时, 21600 = 6 小时, 86400 = 1 天"
+
+#: wowcd_admin.class.php:369
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:261
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:261
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:265
+msgid "Include default CSS styles into your blog?"
+msgstr "使用默认的css文件？"
+
+#: wowcd_admin.class.php:372
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:264
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:264
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:268
+msgid "No, I will use my own CSS"
+msgstr "不，使用我自己的css"
+
+#: wowcd_admin.class.php:377
+msgid "Short or long character display preview by default?"
+msgstr "精简或者完整的角色信息显示？"
+
+#: wowcd_admin.class.php:380
+msgid "Short"
+msgstr "精简"
+
+#: wowcd_admin.class.php:381
+msgid "Long"
+msgstr "完整"
+
+#: wowcd_admin.class.php:385
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:269
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:269
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:273
+msgid "Select the output language for armory data"
+msgstr "选择英雄榜的语言"
+
+#: wowcd_admin.class.php:402
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:283
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:283
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:290
+msgid "Locale strings for the professions"
+msgstr "专业的名称"
+
+#: wowcd_admin.class.php:403
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:284
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:284
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:291
+msgid "You have to enter the locale profession strings, because the armory images where build on the correct locale. For example: Jewelcrafting is in german language Juwelenschleifen."
+msgstr "你必学输入专业技能在你选择的语种中的具体名称，因为专业技能的图片名称是和你选择的语言关联的。例如：Jewelcrafting在简体中文中被翻译为珠宝加工。"
+
+#: wowcd_admin.class.php:405
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:286
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:286
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:293
+msgid "Enter the locale string for Jewelcrafting"
+msgstr "\"Jewelcrafting\"的中文名称"
+
+#: wowcd_admin.class.php:407
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:288
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:288
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:295
+msgid "Enter the locale string for Inscription"
+msgstr "\"Inscription\"的中文名称"
+
+#: wowcd_admin.class.php:409
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:290
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:290
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:297
+msgid "Enter the locale string for Leatherworking"
+msgstr "\"Leatherworking\"的中文名称"
+
+#: wowcd_admin.class.php:411
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:292
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:292
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:299
+msgid "Enter the locale string for Skinning"
+msgstr "\"Skinning\"的中文名称"
+
+#: wowcd_admin.class.php:413
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:294
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:294
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:301
+msgid "Enter the locale string for Herbalism"
+msgstr "\"Herbalism\"的中文名称"
+
+#: wowcd_admin.class.php:415
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:296
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:296
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:303
+msgid "Enter the locale string for Alchemy"
+msgstr "\"Alchemy\"的中文名称"
+
+#: wowcd_admin.class.php:417
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:298
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:298
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:305
+msgid "Enter the locale string for Blacksmithing"
+msgstr "\"Blacksmithing\"的中文名称"
+
+#: wowcd_admin.class.php:419
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:300
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:300
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:307
+msgid "Enter the locale string for Engineering"
+msgstr "\"Engineering\"的中文名称"
+
+#: wowcd_admin.class.php:421
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:302
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:302
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:309
+msgid "Enter the locale string for Enchanting"
+msgstr "\"Enchanting\"的中文名称"
+
+#: wowcd_admin.class.php:423
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:304
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:304
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:311
+msgid "Enter the locale string for Mining"
+msgstr "\"Mining\"的中文名称"
+
+#: wowcd_admin.class.php:425
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:306
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:306
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:313
+msgid "Enter the locale string for Tailoring"
+msgstr "\"Tailoring\"的中文名称"
+
+#: wowcd_admin.class.php:429
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:310
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:310
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:317
+msgid "Update options"
+msgstr "更新选项"
+
+#: wowcd_admin.class.php:456
+#: wowcd_admin.class.php:476
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:321
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:335
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:321
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:335
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:328
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:348
+msgid "Add character"
+msgstr "添加角色"
+
+#: wowcd_admin.class.php:458
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:323
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:323
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:330
+msgid "Enter the correct values to add a character to the plugin"
+msgstr "输入正确的数据以便添加角色信息"
+
+#: wowcd_admin.class.php:460
+#: wowcd_admin.class.php:491
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:325
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:325
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:332
+msgid "US or EU realm?"
+msgstr "服务器区域?"
+
+#: wowcd_admin.class.php:468
+#: wowcd_admin.class.php:499
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:327
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:327
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:340
+msgid "Which wowhead.com local subdomain should be used?<br/>(www = international and us, de = Germany, es = Spain, fr = France, ...)"
+msgstr "wowhead.com使用的语言？<br/>(www = 英语，de = 德语，es = 西班牙语，fr = 法语，没有中文……中文最好还是www吧……)"
+
+#: wowcd_admin.class.php:470
+#: wowcd_admin.class.php:501
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:329
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:329
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:342
+msgid "Enter the name of the realm, e.g. Blackmoore."
+msgstr "服务器名称"
+
+#: wowcd_admin.class.php:472
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:331
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:331
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:344
+msgid "Enter the name of the character."
+msgstr "角色名称"
+
+#: wowcd_admin.class.php:487
+#: wowcd_admin.class.php:507
+msgid "Add guild"
+msgstr "添加公会"
+
+#: wowcd_admin.class.php:489
+msgid "Enter the correct values to add a guild to the plugin"
+msgstr "输入正确的数据以便添加公会信息"
+
+#: wowcd_admin.class.php:503
+msgid "Enter the name of the guild."
+msgstr "公会名称"
+
+#: wowcd_admin.class.php:520
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:348
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:348
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:361
+msgid "Your characters"
+msgstr "你的角色（们）"
+
+#: wowcd_admin.class.php:522
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:350
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:350
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:363
+msgid "Configure what informations were displayed for your characters"
+msgstr "设置显示你角色的哪些信息"
+
+#: wowcd_admin.class.php:536
+#: wow-character-display.php:288
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:359
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:232
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:359
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:232
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:372
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:232
+msgid "Display basic stats"
+msgstr "显示基础属性"
+
+#: wowcd_admin.class.php:537
+#: wow-character-display.php:289
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:360
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:233
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:360
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:233
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:373
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:233
+msgid "Display resistances"
+msgstr "显示抗性"
+
+#: wowcd_admin.class.php:538
+#: wow-character-display.php:290
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:361
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:234
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:361
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:234
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:374
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:234
+msgid "Display melee damage"
+msgstr "显示近战伤害"
+
+#: wowcd_admin.class.php:539
+#: wow-character-display.php:291
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:362
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:235
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:362
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:235
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:375
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:235
+msgid "Display range damage"
+msgstr "显示远程伤害"
+
+#: wowcd_admin.class.php:540
+#: wow-character-display.php:292
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:363
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:236
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:363
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:236
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:376
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:236
+msgid "Display spell damage"
+msgstr "显示法术伤害"
+
+#: wowcd_admin.class.php:541
+#: wow-character-display.php:293
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:364
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:237
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:364
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:237
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:377
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:237
+msgid "Display caster stats"
+msgstr "显示施法状态"
+
+#: wowcd_admin.class.php:542
+#: wow-character-display.php:294
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:365
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:238
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:365
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:238
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:378
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:238
+msgid "Display defense values"
+msgstr "显示防御"
+
+#: wowcd_admin.class.php:543
+#: wow-character-display.php:295
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:366
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:239
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:366
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:239
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:379
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:239
+msgid "Display PvP honor"
+msgstr "显示PvP"
+
+#: wowcd_admin.class.php:544
+#: wow-character-display.php:296
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:367
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:240
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:367
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:240
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:380
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:240
+msgid "Display titles"
+msgstr "显示头衔"
+
+#: wowcd_admin.class.php:545
+#: wow-character-display.php:297
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:368
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:241
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:368
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:241
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:381
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:241
+msgid "Display gear"
+msgstr "显示工具"
+
+#: wowcd_admin.class.php:546
+#: wow-character-display.php:298
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:369
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:242
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:369
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:242
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:382
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:242
+msgid "Display professions"
+msgstr "显示专业"
+
+#: wowcd_admin.class.php:547
+#: wow-character-display.php:299
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:370
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:243
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:370
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:243
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:383
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:243
+msgid "Display recent achievments"
+msgstr "显示最近完成的成就（简体中文目前没有改项目可以显示）"
+
+#: wowcd_admin.class.php:548
+#: wow-character-display.php:300
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:371
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:244
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:371
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:244
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:384
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:244
+msgid "Display statistics"
+msgstr "显示统计信息"
+
+#: wowcd_admin.class.php:549
+#: wow-character-display.php:301
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:372
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:245
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:372
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:245
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:385
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:245
+msgid "Display reputation"
+msgstr "显示声望"
+
+#: wowcd_admin.class.php:550
+#: wow-character-display.php:302
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:373
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:246
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:373
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:246
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:386
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:246
+msgid "Display date and time of last update"
+msgstr "显示最后更新时间"
+
+#: wowcd_admin.class.php:552
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:375
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:375
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:388
+msgid "To display this character in a page or post, use the following shortcode:"
+msgstr "需要在某个文章中显示该角色信息，请使用下面的代码："
+
+#: wowcd_admin.class.php:554
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:377
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:377
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:390
+msgid "Remove this character"
+msgstr "删除角色"
+
+#: wowcd_admin.class.php:554
+#: wowcd_admin.class.php:602
+#: wowcd_admin.class.php:702
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:377
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:454
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:377
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:454
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:390
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:485
+msgid "Really delete?"
+msgstr "确认删除？"
+
+#: wowcd_admin.class.php:556
+msgid "Refresh this character"
+msgstr "刷新角色"
+
+#: wowcd_admin.class.php:556
+#: wowcd_admin.class.php:604
+msgid "Really refresh?"
+msgstr "确认刷新？"
+
+#: wowcd_admin.class.php:562
+#: wowcd_admin.class.php:610
+#: wow-character-display.php:91
+#: wow-character-display.php:121
+#: wow-character-display.php:212
+#: wow-character-display.php:227
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:383
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:85
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:174
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:383
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:85
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:174
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:396
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:85
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:174
+msgid "Error:"
+msgstr "错误："
+
+#: wowcd_admin.class.php:564
+msgid "Display full preview"
+msgstr "显示完整的预览"
+
+#: wowcd_admin.class.php:569
+#: wowcd_admin.class.php:615
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:388
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:388
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:401
+msgid "Save configuration"
+msgstr "保存配置"
+
+#: wowcd_admin.class.php:583
+msgid "Your guilds"
+msgstr "你的公会（们）"
+
+#: wowcd_admin.class.php:585
+msgid "Configure what informations were displayed for your guilds"
+msgstr "配置你的公会需要显示哪些信息"
+
+#: wowcd_admin.class.php:595
+msgid "Display only character equal or above this level."
+msgstr "仅显示比该等级高的角色，含该等级。"
+
+#: wowcd_admin.class.php:596
+msgid "Display only character equal or under this level."
+msgstr "仅显示比该等级低的角色，含该等级。"
+
+#: wowcd_admin.class.php:597
+msgid "Set width of the character class image."
+msgstr "设置角色职业图片的宽度。"
+
+#: wowcd_admin.class.php:598
+#: wow-character-display.php:315
+msgid "Display total count of members"
+msgstr "显示成员总数"
+
+#: wowcd_admin.class.php:600
+msgid "To display this guild in a page or post, use the following shortcode:"
+msgstr "需要在某个文章中显示该公会信息，请使用下面的代码："
+
+#: wowcd_admin.class.php:602
+msgid "Remove this guild"
+msgstr "删除该公会"
+
+#: wowcd_admin.class.php:604
+msgid "Refresh this guild"
+msgstr "刷新公会"
+
+#: wowcd_admin.class.php:629
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:402
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:402
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:415
+msgid "Cache status"
+msgstr "缓存状态"
+
+#: wowcd_admin.class.php:631
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:404
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:404
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:417
+msgid "List of cached files (red: expired and queued for refresh, green: page is delivered from cache)"
+msgstr "缓存文件列表（红色：已过期等待更新的文件，绿色：正在使用中的缓存文件）"
+
+#: wowcd_admin.class.php:634
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:407
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:407
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:420
+msgid "Sort by:"
+msgstr "分类："
+
+#: wowcd_admin.class.php:634
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:407
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:407
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:420
+msgid "state"
+msgstr "状态"
+
+#: wowcd_admin.class.php:634
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:407
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:407
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:420
+msgid "name"
+msgstr "名称"
+
+#: wowcd_admin.class.php:648
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:434
+msgid "Important: Don't delete XML cache files if not really necessary!"
+msgstr "重要：不要删除XML文件，除非必要！"
+
+#: wowcd_admin.class.php:691
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:476
+msgid "Character sheet"
+msgstr "角色表"
+
+#: wowcd_admin.class.php:693
+msgid "Guild roster"
+msgstr "公会成员名册"
+
+#: wowcd_admin.class.php:699
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:482
+msgid "XML cache file"
+msgstr "XML 缓存文件"
+
+#: wowcd_admin.class.php:702
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:454
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:454
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:485
+msgid "delete"
+msgstr "删除"
+
+#: wowcd_admin.class.php:707
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:459
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:459
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:490
+msgid "Sorry, no files are cached at the moment."
+msgstr "抱歉，尚未有文件已被缓存。"
+
+#: wowcd_admin.class.php:711
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:463
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:463
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:494
+msgid "Cacheing is disabled."
+msgstr "缓存已关闭。"
+
+#: wowcd_admin.class.php:717
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:469
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:469
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:500
+msgid "files are cached."
+msgstr "文件已缓存。"
+
+#: wowcd_admin.class.php:718
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:470
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:470
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:501
+msgid "files are cached and outdated."
+msgstr "文件已缓存，但过期了。"
+
+#: wowcd_admin.class.php:719
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:471
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:471
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:502
+msgid "files are cached total."
+msgstr "文件已缓存。"
+
+#: wowcd_admin.class.php:722
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:474
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:474
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:505
+msgid "Delete all cache files and force recreation"
+msgstr "删除所有缓存并重建"
+
+#: wowcd_admin.class.php:722
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:474
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:474
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:505
+msgid "Delete all expired cache files"
+msgstr "删除所有过期的缓存文件"
+
+#: wowcd_admin.class.php:731
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:483
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:483
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:514
+msgid "Donate &amp; support"
+msgstr "捐赠或技术支持"
+
+#: wowcd_admin.class.php:733
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:485
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:485
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:516
+msgid "Please"
+msgstr "请"
+
+#: wowcd_admin.class.php:733
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:485
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:485
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:516
+msgid "DONATE"
+msgstr "捐赠"
+
+#: wowcd_admin.class.php:733
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:485
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:485
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:516
+msgid "if you like this plugin."
+msgstr "如果你非常喜欢这个插件。"
+
+#: wowcd_admin.class.php:734
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:517
+msgid "If you need support, want to report bugs or suggestions, drop me an "
+msgstr "如果你需要技术支持，或者要报告bug等，请发送"
+
+#: wowcd_admin.class.php:734
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:517
+msgid "email"
+msgstr "电子邮件"
+
+#: wowcd_admin.class.php:734
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:517
+msgid "or visit the"
+msgstr "或者访问"
+
+#: wowcd_admin.class.php:734
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:486
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:517
+msgid "plugin homepage"
+msgstr "插件主页"
+
+#: wowcd_admin.class.php:735
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:487
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:487
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:518
+msgid "Translations: "
+msgstr "翻译："
+
+#: wowcd_admin.class.php:736
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:488
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:488
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:519
+msgid "And this persons I thank for a donation:"
+msgstr "感谢以下人员的捐赠："
+
+#: wowcd_admin.class.php:737
+#: svn/wow-character-display/tags/1.01/wowcd_admin.class.php:489
+#: svn/wow-character-display/tags/1.02/wowcd_admin.class.php:489
+#: svn/wow-character-display/tags/1.03/wowcd_admin.class.php:520
+msgid "Final statements: Code is poetry. Motorcycles are cooler than cars."
+msgstr "声明：Code is poetry. Motorräder sind cooler als Autos."
+
+#: wow-character-display.php:152
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:116
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:116
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:116
+msgid "Display one or more Word of Warcraft characters in your sidebar."
+msgstr "在边侧栏中显示一个或者多个魔兽世界角色信息。"
+
+#: wow-character-display.php:277
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:222
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:222
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:222
+msgid "Title:"
+msgstr "标题："
+
+#: wow-character-display.php:282
+#: svn/wow-character-display/tags/1.01/wow-character-display.php:224
+#: svn/wow-character-display/tags/1.02/wow-character-display.php:224
+#: svn/wow-character-display/tags/1.03/wow-character-display.php:224
+msgid "Character:"
+msgstr "角色："
+
+#: wow-character-display.php:306
+msgid "Or display a guild roster:"
+msgstr "或者显示公会名册："
+
+#: wow-character-display.php:312
+msgid "Minimum level to display"
+msgstr "显示的最低等级"
+
+#: wow-character-display.php:313
+msgid "Maximum level to display"
+msgstr "显示的最高等级"
+
+#: wow-character-display.php:314
+msgid "Character class image width"
+msgstr "角色职业图标宽度"
+
+#: tinymce/window.php:36
+msgid "You are not allowed to be here"
+msgstr "你未被授权访问这里"
+
+#: tinymce/window.php:56
+msgid "Character"
+msgstr "角色"
+
+#: tinymce/window.php:57
+msgid "Guild"
+msgstr "公会"
+
+#: tinymce/window.php:67
+msgid "Select character"
+msgstr "选择角色"
+
+#: tinymce/window.php:87
+msgid "Select guild"
+msgstr "选择公会"
+
+#: tinymce/window.php:105
+msgid "Cancel"
+msgstr "取消"
+
+#: tinymce/window.php:109
+msgid "Insert"
+msgstr "插入"
+

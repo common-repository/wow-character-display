@@ -1,0 +1,224 @@
+/* WoW Char Display plugin post styles */
+.post .post-content .wow_character, .post .wow_character, .wow_character {
+	border:1px solid #999;
+	padding:2px;
+	width:265px;
+	float:left;
+	overflow:hidden;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+.post .post-content .wow_character div, .post .wow_character div, .wow_character div {
+	margin-bottom:5px;
+}
+.post .post-content .wow_character img, .post .wow_character img, .wow_character img {
+	border:none;
+	margin:0em;
+	padding:0em;
+	margin-right:2px;
+}
+.post .post-content .armory_char_prof, .post .armory_char_prof, .wow_character .armory_char_prof {
+	float:left;
+	margin-right:2px;
+}
+.post .post-content .armory_char_name, .post .armory_char_name, .wow_character .armory_char_name {
+	line-height:97%;
+}
+.post .post-content .armory_char_guildname, .post .armory_char_guildname, .wow_character .armory_char_guildname {
+	line-height:97%;
+}
+.post .post-content .armory_char_faction, .post .armory_char_faction, .wow_character .armory_char_faction {
+	line-height:97%;
+}
+.post .post-content .armory_char_realm, .post .armory_char_realm, .wow_character .armory_char_realm {
+	line-height:97%;
+}
+.post .post-content .armory_char_levelraceclass, .post .armory_char_levelraceclass, .wow_character .armory_char_levelraceclass {
+	clear:left;
+}
+.post .post-content .wow_character ul, .post .wow_character ul, .wow_character ul {
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+}
+.post .post-content .wow_character li, .post .wow_character li, .wow_character li {
+	font-size:0.9em;
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+	margin-bottom:2px;
+	background-image:none;
+}
+.post .post-content .armory_gear ul, .post .armory_gear ul, .wow_character .armory_gear ul {
+	overflow:hidden;
+	list-style-type:none;
+}
+.post .post-content .armory_gear li, .post .armory_gear li, .wow_character .armory_gear li {
+	float:left;
+	margin-bottom:2px;
+	list-style-type:none;
+}
+.post .post-content .wow_character li img, .post .wow_character li img, .wow_character li img {
+	margin-right:2px;
+	float:left;
+}
+.wow_character a:link,.wow_character a:visited,.wow_character a:hover {
+	text-decoration:none;
+}
+.post .post-content ul.armory_reputation_list li, .post ul.armory_reputation_list li, .wow_character ul.armory_reputation_list li {
+	font-weight:bold;
+}
+.post .post-content ul.armory_reputation_list li ul li, .post ul.armory_reputation_list li ul li, .wow_character ul.armory_reputation_list li ul li {
+	margin-left:10px;
+	font-weight:normal;
+}
+
+/* WoW Character Display plugin sidebar styles */
+.wowcdwidget_multi .wow_character div {
+	margin-bottom:5px;
+}
+.wowcdwidget_multi .wow_character img {
+	border:none;
+	margin:0em;
+	padding:0em;
+	margin-right:2px;
+}
+.wowcdwidget_multi .armory_char_prof {
+	float:left;
+	margin-right:2px;
+}
+.wowcdwidget_multi .armory_char_name {
+	line-height:97%;
+}
+.wowcdwidget_multi .armory_char_guildname {
+	line-height:97%;
+}
+.wowcdwidget_multi .armory_char_faction {
+	line-height:97%;
+}
+.wowcdwidget_multi .armory_char_realm {
+	line-height:97%;
+}
+.wowcdwidget_multi .armory_char_levelraceclass {
+	clear:left;
+}
+.wowcdwidget_multi .wow_character ul {
+	list-style-type:none;
+	overflow:hidden;
+}
+.wowcdwidget_multi .wow_character li {
+	list-style-type:none;
+	overflow:hidden;
+	margin-bottom:2px;
+	background-image:none;
+}
+.wowcdwidget_multi .armory_gear ul {
+	overflow:hidden;
+	list-style-type:none;
+}
+.wowcdwidget_multi .armory_gear li {
+	float:left;
+	margin-bottom:2px;
+	list-style-type:none;
+}
+.wowcdwidget_multi .wow_character li img {
+	margin-right:2px;
+	float:left;
+}
+.wow_character a:link,.wow_character a:visited,.wow_character a:hover {
+	text-decoration:none;
+}
+.wowcdwidget_multi ul.armory_reputation_list li {
+	font-weight:bold;
+}
+.wowcdwidget_multi ul.armory_reputation_list li ul li {
+	margin-left:10px;
+	font-weight:normal;
+}
+
+/* WoW Char Display guild roster display */
+.post .post-content .armory_guild_roster, .post .armory_guild_roster {
+	border:1px solid #999;
+	padding:2px;
+	width:265px;
+	float:left;
+	overflow:hidden;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+.armory_guild_roster ul {
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+}
+.armory_guild_roster li {
+	font-size:0.9em;
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+	margin-bottom:2px;
+}
+.post .post-content .armory_guild_roster img, .post .armory_guild_roster img {
+	border:none;
+	margin:0em;
+	padding:0em;
+	margin-right:2px;
+}
+.armory_guild_roster li img {
+	margin-right:2px;
+	float:left;
+}
+.post .post-content .armory_guild_roster ul, .post .armory_guild_roster ul {
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+}
+.post .post-content .armory_guild_roster li, .post .armory_guild_roster li {
+	font-size:0.9em;
+	list-style-type:none;
+	padding:0em;
+	margin:0em;
+	overflow:hidden;
+	margin-bottom:2px;
+	background-image:none;
+}
+.armory_guild_roster a:link,.armory_guild_roster a:visited,.armory_guild_roster a:hover {
+	text-decoration:none;
+}
+
+/* WoW Character Display plugin guild roster sidebar styles */
+.wowcdwidget_multi .armory_guild_roster div {
+	margin-bottom:5px;
+}
+.wowcdwidget_multi .armory_guild_roster img {
+	border:none;
+	margin:0em;
+	padding:0em;
+	float:left;
+	margin-right:2px;
+}
+.wowcdwidget_multi .armory_guild_roster li img {
+	margin-right:2px;
+	float:left;
+}
+.wowcdwidget_multi .armory_guild_roster ul {
+	list-style-type:none;
+	overflow:hidden;
+}
+.wowcdwidget_multi .armory_guild_roster li {
+	list-style-type:none;
+	overflow:hidden;
+	margin-bottom:2px;
+	background-image:none;
+}
+.armory_guild_roster a:link,.armory_guild_roster a:visited,.armory_guild_roster a:hover {
+	text-decoration:none;
+}
+.wowcdwidget_multi .armory_guild_roster .armory_member_count {
+	margin-left:2px;
+}
